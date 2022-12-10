@@ -11,3 +11,5 @@
   * Зайти в машину :grin:
   * Поехать :stuck_out_tongue_closed_eyes:
   * Забрать друзей
+* Написать список покупок :neutral_face:
+* Сделать домашенее задание :neutral_face:
