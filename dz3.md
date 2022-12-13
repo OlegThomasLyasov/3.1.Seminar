@@ -22,4 +22,10 @@
 * вносим изменения
 * сохраняем ctrl S
 * сохраняем папку git add "name"
-* 
+* пишем, что именно меняем _git commit - m "lala"
+* git status
+* git push - отправить файл на свой аккаунт
+* git remote add origin "путь файла"
+* git branch -m main - оснвная ветка является main
+* git push -u orogin main - отправь в git репозиторий
+* В окне Github появляется возможность отправить pull request
